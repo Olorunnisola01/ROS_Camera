@@ -1,0 +1,4 @@
+[console_scripts]
+camera_node = my_camera_package.camera_node:main
+camera_subscriber = my_camera_package.camera_subscriber:main
+
